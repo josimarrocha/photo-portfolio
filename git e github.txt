@@ -5,3 +5,7 @@ USE REBASE (PULL --REBASE)
 
 > Terminou sua feature no branch e quer jogar para o master?
 USE MERGE
+
+Revertendo commits
+> usar 'revert' somente no master. Nao usar reset no master para nao alterar o histórico
+> usar reset somente em branchs separadas da master
